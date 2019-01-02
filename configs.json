@@ -1,0 +1,8 @@
+{
+    "UserConsumerThreads": 3,
+	"queueStorage":        10000,
+	"startingUrlNumber":   1850456308,
+	"endingUrlNumber":     1850456320,
+	"outputFileName":      "ebayCsv.csv",
+	"proxyAddress":        "socks5://127.0.0.1:1337"
+}
